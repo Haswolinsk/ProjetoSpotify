@@ -1,0 +1,31 @@
+/* 
+    CSS feito com o maximo possivel de boostrap
+    (coloquei alguns styles inline pelo js também)
+*/
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    background-image: linear-gradient(#191414 1%, black);
+}
+
+hr{
+    color: rgb(255 255 255 / 50%) !important;
+}
+thead{
+    border-bottom: 1px #ffffff80 solid !important;
+}
+thead>tr>th, 
+tbody>tr>td {
+    background-color: transparent !important;
+    color: rgb(255 255 255 / 50%) !important;
+}
+
+.hover-cursor:hover{
+    cursor: pointer;
+}
+.hover-border:hover{
+    border: 1px whitesmoke solid !important;
+}
