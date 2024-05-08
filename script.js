@@ -1,5 +1,5 @@
-const clientId = '3c14d93381af4228a187ef44bf180096';
-const clientSecret = '3e8247042b4f4947b8e2069082eb3d72';
+const clientId = '';
+const clientSecret = '';
 
 topPlaylist();
 var count = 1;
